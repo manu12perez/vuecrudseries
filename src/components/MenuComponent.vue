@@ -23,10 +23,10 @@
             <router-link to="/" class="nav-link"> Home </router-link>
           </li>
           <li class="nav-item">
-            <router-link to="#" class="nav-link"> Nuevo Personaje </router-link>
+            <router-link to="/create" class="nav-link"> Nuevo Personaje </router-link>
           </li>
           <li class="nav-item">
-            <router-link to="#" class="nav-link"> Modificar Personaje </router-link>
+            <router-link to="/update" class="nav-link"> Modificar Personaje </router-link>
           </li>          
           <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown" aria-expanded="false">

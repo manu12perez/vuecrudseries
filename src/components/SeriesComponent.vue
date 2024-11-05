@@ -1,6 +1,6 @@
 <template>
   <div class="container mt-4">
-    <router-link to="/" class="btn btn-secondary mb-3"> Volver </router-link>
+    <router-link to="/" class="btn btn-danger mb-3"> Volver </router-link>
 
     <!-- Si no se ha cargado la serie, mostramos un mensaje de carga -->
     <div v-if="loading" class="text-center">
